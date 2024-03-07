@@ -2,7 +2,16 @@
 
 ## Overview
 This repository contains files for the realization of an electronic Duffing oscillator, i.e., a circuit which simulates Duffing's equation
-    $m\ddot{x}(t) + c\dot{x}(t) + kx(t) + k_3 x^3(t) = f_{ext}(t).$
+
+$\qquad m\ddot{x}(t) + c\dot{x}(t) + kx(t) + k_3 x^3(t) = f_{ext}(t),$
+    
+which can also be put in the form
+    
+$\qquad \ddot{x}(t) + 2\zeta_0\omega_0\dot{x}(t) + \omega_0^2 x(t) + \kappa_3 x^3(t) = \dfrac{1}{m}f_{ext}(t),$
+    
+where $\omega_0 = \sqrt{k/m}$ (if $k>0$), $\zeta_0 = c/(2\sqrt{km})$ and $\kappa_3 = k_3/m$.
+
+The circuit takes a signal proportional to $f_{ext}$ as input and outputs signals proportional to $x$ and $\dot{x}$. It allows for different values of the parameters $\omega_0$, $\zeta_0$ and $\kappa_3$. It is also possible to chose negative values for $k$ and obtain a double-well oscillator.
 
 The circuit diagrams were realized with KiCad7.0 (https://www.kicad.org/).
 
