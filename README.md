@@ -13,7 +13,15 @@ where $\omega_0 = \sqrt{k/m}$ (if $k>0$), $\zeta_0 = c/(2\sqrt{km})$ and $\kappa
 
 The circuit takes a signal proportional to $f_{ext}$ as input and outputs signals proportional to $x$ and $\dot{x}$. It allows for different values of the parameters $\omega_0$, $\zeta_0$ and $\kappa_3$. It is also possible to chose negative values for $k$ and obtain a double-well oscillator.
 
-The circuit diagrams were realized with KiCad7.0 (https://www.kicad.org/).
+## References
+
+The circuit diagrams were realized using KiCad7.0 (https://www.kicad.org/), inspired from the following works:
+
+\[1\] B. K. Jones and G. Trefan, “The Duffing oscillator: A precise electronic analog chaos demonstrator for the undergraduate laboratory,” Am. J. Phys., vol. 69, no. 4, pp. 464–469, Apr. 2001, doi: [10.1119/1.1336838](https://doi.org/10.1119/1.1336838).
+
+\[2\] K. Srinivasan, K. Thamilmaran, and A. Venkatesan, “Effect of nonsinusoidal periodic forces in Duffing oscillator: Numerical and analog simulation studies,” Chaos, Solitons & Fractals, vol. 40, no. 1, pp. 319–330, Apr. 2009, doi: [10.1016/j.chaos.2007.07.090](https://doi.org/10.1016/j.chaos.2007.07.090).
+
+## More information
 
 For more infomation, see the documentation file.
 
