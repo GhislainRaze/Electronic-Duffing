@@ -1,0 +1,2 @@
+# electronicDuffing
+Electronic Duffing oscillator.
