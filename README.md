@@ -11,7 +11,7 @@ $\qquad \ddot{x}(t) + 2\zeta_0\omega_0\dot{x}(t) + \omega_0^2 x(t) + \kappa_3 x^
     
 where $\omega_0 = \sqrt{|k|/m}$, $\zeta_0 = c/(2\sqrt{|k|m})$ and $\kappa_3 = k_3/m$.
 
-The circuit takes a signal proportional to $f_{ext}$ as input and outputs signals proportional to $x$ and $\dot{x}$. It allows for tunable values of the parameters $\omega_0$, $\zeta_0$ and $\kappa_3$ via the use of potentiometers. It is also possible to chose positive or negative values for $k$ and obtain a single- or double-well oscillator, respectively.
+The circuit takes a signal proportional to $f_{ext}$ as input and outputs signals proportional to $x$ and $\dot{x}$. It allows for tunable values of the parameters $c$, $k$ and $k_3$ via the use of potentiometers. It is also possible to chose positive or negative values for $k$ and obtain a single- or double-well oscillator, respectively.
 
 ## References
 
