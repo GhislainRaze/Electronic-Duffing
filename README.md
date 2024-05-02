@@ -1,4 +1,4 @@
-# Electronic-Duffing
+# An electronic Duffing oscillator
 
 ## Overview
 This repository contains files for the realization of an electronic Duffing oscillator, i.e., a circuit which simulates Duffing's equation
