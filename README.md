@@ -7,7 +7,7 @@ $\qquad m\ddot{x}(t) + c\dot{x}(t) + kx(t) + k_3 x^3(t) = f_{ext}(t),$
     
 with $m>0$, $c\geq0$ and $k_3\geq0$, which can also be put in the form
     
-$\qquad \ddot{x}(t) + 2\zeta_0\omega_0\dot{x}(t) + \omega_0^2 x(t) + \kappa_3 x^3(t) = \dfrac{1}{m}f_{ext}(t),$
+$\qquad \ddot{x}(t) + 2\zeta_0\omega_0\dot{x}(t) + \text{sign}(k)\omega_0^2 x(t) + \kappa_3 x^3(t) = \dfrac{1}{m}f_{ext}(t),$
     
 where $\omega_0 = \sqrt{|k|/m}$, $\zeta_0 = c/(2\sqrt{|k|m})$ and $\kappa_3 = k_3/m$.
 
