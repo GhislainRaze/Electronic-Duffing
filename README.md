@@ -23,7 +23,7 @@ The circuit diagrams were realized using KiCad7.0 (https://www.kicad.org/), insp
 
 ## More information
 
-For more infomation, see the documentation file.
+For more infomation, see the [documentation file](DOC/Electronic_Duffing.pdf).
 
 
 ## License
