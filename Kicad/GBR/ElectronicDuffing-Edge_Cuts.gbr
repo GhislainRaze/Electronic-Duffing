@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.9*%
+%TF.CreationDate,2024-05-07T07:23:08+02:00*%
+%TF.ProjectId,ElectronicDuffing,456c6563-7472-46f6-9e69-634475666669,v 1.1*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.9) date 2024-05-07 07:23:08*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.100000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X41910000Y-73660000D02*
+X138430000Y-73660000D01*
+X138430000Y-158115000D01*
+X41910000Y-158115000D01*
+X41910000Y-73660000D01*
+M02*
