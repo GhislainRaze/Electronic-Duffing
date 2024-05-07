@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 031-71052
+#/18512739/1283793/2.50/4/3/Connector
+DEF 031-71052 J 0 30 Y Y 1 F N
+F0 "J" 1050 300 50 H V L CNN
+F1 "031-71052" 1050 200 50 H V L CNN
+F2 "03171052" 1050 100 50 H I L CNN
+F3 "https://www.amphenolrf.com/library/download/link/link_id/594157/parent/031-71052/" 1050 0 50 H I L CNN
+F4 "BNC Right Angle PCB Jack Through Hole Bulkhead Rear Mount 75 Ohm Isolated" 1050 -100 50 H I L CNN "Description"
+F5 "13.4" 1050 -200 50 H I L CNN "Height"
+F6 "" 1050 -300 50 H I L CNN "TTI Part Number"
+F7 "" 1050 -400 50 H I L CNN "TTI Price/Stock"
+F8 "Amphenol" 1050 -500 50 H I L CNN "Manufacturer_Name"
+F9 "031-71052" 1050 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X SIGNAL 1 0 -100 200 R 50 50 0 0 P
+X GROUND 2 0 0 200 R 50 50 0 0 P
+X MH1 MH1 1200 -100 200 L 50 50 0 0 P
+X MH2 MH2 1200 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

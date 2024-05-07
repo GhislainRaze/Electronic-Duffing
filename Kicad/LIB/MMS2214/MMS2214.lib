@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model MMS2214
+#/1226316/1283793/2.50/3/4/Switch
+DEF MMS2214 S 0 30 Y Y 1 F N
+F0 "S" 650 300 50 H V L CNN
+F1 "MMS2214" 650 200 50 H V L CNN
+F2 "MMS2214" 650 100 50 H I L CNN
+F3 "https://datasheet.datasheetarchive.com/originals/dk/DKDS42/DSANUWW0042233.pdf" 650 0 50 H I L CNN
+F4 "Slide Switches DPDT 0.3A 30V On-On" 650 -100 50 H I L CNN "Description"
+F5 "7.5" 650 -200 50 H I L CNN "Height"
+F6 "642-MMS2214" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Apem/MMS2214?qs=i1KciFEqNAbAnAstdVgcrw%3D%3D" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Apem" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "MMS2214" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+X 3 3 0 -200 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model RK09D113F25C0B504
+#/13224037/1283793/2.50/5/4/Capacitor
+DEF RK09D113F25C0B504 C 0 30 Y Y 1 F N
+F0 "C" 950 300 50 H V L CNN
+F1 "RK09D113F25C0B504" 950 200 50 H V L CNN
+F2 "RK09D113F25C0B504" 950 100 50 H I L CNN
+F3 "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjZ4p3nqJP2AhUPHxoKHa9WDbsQFnoECAkQAQ&url=https%3A%2F%2Ftech.alpsalpine.com%2Fprod%2Fe%2Fpdf%2Fpotentiometer%2Frotarypotentiometers%2Frk09k%2Frk09k.pdf&usg=AOvVaw1V8Li5X_BevBLehA-3mp" 950 0 50 H I L CNN
+F4 "Potentiometers 9MM 500K V/ADJ" 950 -100 50 H I L CNN "Description"
+F5 "25" 950 -200 50 H I L CNN "Height"
+F6 "688-RK09D113F25-500K" 950 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Alps-Alpine/RK09D113F25C0B504?qs=7Sb4WzetO8%252B4m0Y%252B8hcNJw%3D%3D" 950 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "ALPS Electric" 950 -500 50 H I L CNN "Manufacturer_Name"
+F9 "RK09D113F25C0B504" 950 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X CCW 1 0 0 200 R 50 50 0 0 P
+X WIPER 2 0 -100 200 R 50 50 0 0 P
+X CW 3 0 -200 200 R 50 50 0 0 P
+X MH1 MH1 1100 0 200 L 50 50 0 0 P
+X MH2 MH2 1100 -100 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 900 100 900 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MMS2214
+D Slide Switches DPDT 0.3A 30V On-On
+K
+F https://datasheet.datasheetarchive.com/originals/dk/DKDS42/DSANUWW0042233.pdf
+$ENDCMP
+#
+#End Doc Library

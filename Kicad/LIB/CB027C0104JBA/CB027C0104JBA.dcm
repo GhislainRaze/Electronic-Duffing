@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CB027C0104JBA
+D AVX - CB027C0104JBA - CAP, 0.1F, 25V, 5%, PEN, 1210, SMD
+K
+F http://datasheets.avx.com/cb-pen.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model ECW-FD2W105J
+#/714376/1283793/2.50/2/4/Capacitor
+DEF ECW-FD2W105J C 0 30 Y Y 1 F N
+F0 "C" 350 250 50 H V L CNN
+F1 "ECW-FD2W105J" 350 150 50 H V L CNN
+F2 "ECWFD2W105J" 350 50 50 H I L CNN
+F3 "https://industrial.panasonic.com/cdbs/www-data/pdf/RDI0000/ABD0000C255.pdf" 350 -50 50 H I L CNN
+F4 "PANASONIC - ECW-FD2W105J - FILM CAPACITOR, 1uF, 450V, 5%, RADIAL" 350 -150 50 H I L CNN "Description"
+F5 "11" 350 -250 50 H I L CNN "Height"
+F6 "667-ECW-FD2W105J" 350 -350 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Panasonic/ECW-FD2W105J?qs=qeco7YeAuFAUNtGajKW2fQ%3D%3D" 350 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "Panasonic" 350 -550 50 H I L CNN "Manufacturer_Name"
+F9 "ECW-FD2W105J" 350 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 500 0 200 L 50 50 0 0 P
+P 2 0 1 6 220 100 220 -100 N
+P 2 0 1 6 280 100 280 -100 N
+P 2 0 1 6 200 0 220 0 N
+P 2 0 1 6 280 0 300 0 N
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ECW-FD2W105J
+D PANASONIC - ECW-FD2W105J - FILM CAPACITOR, 1uF, 450V, 5%, RADIAL
+K
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDI0000/ABD0000C255.pdf
+$ENDCMP
+#
+#End Doc Library
