@@ -1,7 +1,7 @@
 # An electronic Duffing oscillator
 
 ## Overview
-This repository contains files for the realization of an electronic Duffing oscillator, i.e., a circuit which simulates Duffing's equation
+This repository contains files for the realization of an electronic Duffing oscillator, i.e., a circuit whose behavior is governed Duffing's equation
 
 $\qquad m\ddot{x}(t) + c\dot{x}(t) + kx(t) + k_3 x^3(t) = f_{ext}(t),$
     
